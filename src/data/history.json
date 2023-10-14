@@ -1,0 +1,29 @@
+[
+    {
+      "role": "MERN Fullstack Intern",
+      "organisation": "Ethnus",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": ["React", "MongoDB"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Data Science Intern",
+      "organisation": "CipherByte",
+      "startDate": "Sep, 2023",
+      "endDate": "Present",
+      "experiences": ["Iris Flower Classification", "Spam Email Detection"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Data Science Intern",
+      "organisation": "Bharat Intern",
+      "startDate": "Oct, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Stock Prediction",
+        "Number Recognition"
+      ],
+      "imageSrc": "history/netflix.png"
+    }
+  ]
